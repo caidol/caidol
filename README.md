@@ -1,3 +1,5 @@
+Hey, my name is Aidan. I'm someone who loves programming and space. I'd like to become a software and embedded systems engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caidol&show_icons=true&theme=midnight-purple&border_color=cf34eb)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caidol&size_weight=0.5&count_weight=0.5&layout=donut&exclude_repo=LegoLumberGame&theme=midnight-purple&border_color=cf34eb)
+Here are some of the projects which I've taken up in the past:
+
+- 🤖 [A Telegram Utility Bot made using Python and the Telegram API](https://github.com/caidol/SUB_Mecha)
