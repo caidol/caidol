@@ -6,3 +6,4 @@ Hey, my name is Aidan. I'm someone who loves programming and space. I'd like to 
 - 👽 [Messing around with the raycasting technique commonly used in Wolfenstein 3D](https://github.com/caidol/Raycaster)
 - 🌠 [A cool little starfield warpspeed simulation in Pygame](https://github.com/caidol/StarfieldPygame)
 - 📦 [Testing out security vulnerabilities by hiding a metasploit exploit into a .deb package](https://github.com/caidol/SecretPackage)
+- 🔎 [A wordle solver website](https://www.wordlesolver.co.uk/)
