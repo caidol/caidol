@@ -1,4 +1,4 @@
-Hey, my name is Aidan. I'm someone who loves programming and space. I'd like to become a software and embedded systems engineer. Here are some of the projects which I've taken up in the past:
+Hello, these are some of the projects I have done in the past:
 
 - 🤖 [A Telegram Utility Bot made using Python and the python-telegram-bot API](https://github.com/caidol/SUB_Mecha)
 - 🕹️ [Remade a simple version of Tetris in C and with the SDL2 Library](https://github.com/caidol/Kstris)
